@@ -1,47 +1,5 @@
-‎<!DOCTYPE html>
-‎<html lang="bn">
-‎<head>
-‎  <meta charset="UTF-8">
-‎  <title>Red Xenon Official - Team Information</title>
-‎  <style>
-‎    body {
-‎      font-family: Arial, sans-serif;
-‎      background-color: #f4f4f4;
-‎      padding: 20px;
-‎    }
-‎    .container {
-‎      max-width: 800px;
-‎      margin: auto;
-‎      background: #fff;
-‎      padding: 30px;
-‎      border-radius: 10px;
-‎      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-‎    }
-‎    h1, h2 {
-‎      color: #e60000;
-‎    }
-‎    ul {
-‎      list-style-type: none;
-‎      padding: 0;
-‎    }
-‎    li {
-‎      margin-bottom: 10px;
-‎    }
-‎    a {
-‎      color: #e60000;
-‎      text-decoration: none;
-‎    }
-‎    a:hover {
-‎      text-decoration: underline;
-‎    }
-‎    .section {
-‎      margin-bottom: 30px;
-‎    }
-‎  </style>
-‎</head>
-‎<body>
-‎  <div class="container">
-‎    <h1>Red Xenon Official</h1>
+
+‎    <h1>RED XENON</h1>
 ‎    <h2>Team Information</h2>
 ‎
 ‎    <div class="section">
